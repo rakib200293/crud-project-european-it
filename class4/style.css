@@ -1,0 +1,20 @@
+
+body{
+  background-color: silver;
+}
+.post_form{
+    color: white;
+
+}
+.post_form h3{
+  text-align: center;
+  margin-top: 10px;
+}
+.get_form{
+   color: black
+   ;
+}
+.get_form h3{
+    text-align: center;
+    margin-top: 10px;
+}

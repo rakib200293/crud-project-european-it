@@ -1,0 +1,79 @@
+/*---------------------------------
+               Sideber
+  --------------------------------*/     
+
+.sidebar-collapse a{
+    color: #00AEEF;
+}
+.navbar-default .navbar-brand {
+    color: #00AEEF;
+}
+
+/*---------------------------------
+               Index Page
+  --------------------------------*/     
+.page-header{
+    margin: 20px;
+    padding-bottom: 20px;
+}
+#page-wrapper h1{
+    font-size: 32px;
+    color: #00AEEF;
+    font-weight: 700;
+}
+.page-wrapper .btn-primary{
+    background-color:#00AEEF !important ;
+}
+
+/*---------------------------------
+           About Section
+  --------------------------------*/     
+
+.about img{
+    max-width: 1260px !important;
+    width: 1260px !important;
+    border: 1px solid #a8bac0
+}
+.about p{
+    font-size: 16px;
+    padding: 20px 25px;
+    text-align: justify;
+    line-height: 25px;
+}
+.about h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    background: #00AFEF;
+    padding: 13px;
+    font-weight: 700;
+
+}
+.head-button .btn-primary{
+    background-color:#00AEEF !important ;
+    font-weight: 600;
+}
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color:#00AEEF !important;
+    border-color:#00AEEF !important;
+}
+.dataTables_wrapper {
+    padding: 20px !important;
+}
+.form-group .error{
+    color: #f00 !important;
+}
+.form-group .star{
+    color: #f00 !important;
+}
+#page-wrapper h1{
+    text-align: center;
+    border-bottom: 1px solid;
+}
+.list_image img{
+    object-fit: cover !important;
+}
